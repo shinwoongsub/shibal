@@ -59,7 +59,7 @@ html, body { height: 100%; }
 }
 
 .pt-page h1 span {
-	font-family: 'Satisfy', serif;
+	/*font-family: 'Satisfy', serif;*/
 	font-weight: 400;
 	font-size: 40%;
 	text-transform: none;
@@ -130,7 +130,7 @@ html, body { height: 100%; }
 	width: 100%;
 	cursor: pointer;
 	display: block;
-	font-family: 'Lato', Calibri, Arial, sans-serif;
+	/*font-family: 'Lato', Calibri, Arial, sans-serif;*/
 	box-shadow: 0 3px 0 rgba(0,0,0,0.1);
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
